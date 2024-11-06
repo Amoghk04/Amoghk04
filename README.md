@@ -21,4 +21,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Amoghk04&icon=0&color=4)](https://visitcount.itsvg.in)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amoghk04&langs_count=10)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amoghk04&repo=en-to-kn-transliteration)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amoghk04&repo=sentiment-analysis)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sathya-pramodh&repo=LiveFace)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
