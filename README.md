@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/amogh-kalasapura" target="_blank">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()</a> 
+<a href="https://www.linkedin.com/in/amogh-kalasapura" target="_blank">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()</a> 
 <a href="https://amoghk04.github.io" target="_blank"><img src="AK.svg" height = 20, width = 60, border-radius = 50%></a>
 
 # 💻 Tech Stack:
